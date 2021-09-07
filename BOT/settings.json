@@ -1,0 +1,11 @@
+{
+    "token": "ODgzNzE5MTUzNDMxNzY1MDUy.YTTBBQ.NmiwD8BRX2AXHIYCw2xwjxJ-G5Q",
+    "prefix": "n!",
+    "credit": "NiceDay",
+    "stream-status": "SMS Flooder | $help",
+
+    "rate-limit": "20",
+    "black-list": ["0900000000"],
+
+    "footer": "Send on"
+}
